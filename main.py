@@ -1,7 +1,7 @@
 import datetime
 
 def func():
-    print(f"hello world -- {datetime.datetime.now()}")
+    print(f"time is -- {datetime.datetime.now()}")
 
 
 
